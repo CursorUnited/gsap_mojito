@@ -59,7 +59,7 @@ const Cocktails = () => {
                     </ul>
                 </div>
             </div>
-            
+     
         </section>
     )
 }
